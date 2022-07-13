@@ -8,7 +8,7 @@
 [![WhatsApp](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Lincondc)
 
 
-![Lincon GitHub stats](https://github-readme-stats.vercel.app/api?username=linconDC&show_icons=true&theme=dark)
+
 
 
 ### Tecnologias que estou aprendendo!
@@ -21,7 +21,7 @@
 <img align="center" alt="Git" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"/>
 <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/></div> <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LinconDC&layout=compact)](https://github.com/LinconDC/github-readme-stats) <br/>
+
 
 
 
