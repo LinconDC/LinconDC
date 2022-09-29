@@ -1,7 +1,9 @@
-Hi I'm Lincon , student in computer science 💻 , I'm focused on Back End development with Java using SpringBoot.
+<div alignh="center">
+<br><p align="center"><b>Hi I'm Lincon , student in computer science 💻 , Focused on Back End development with Java using SpringBoot.</b></p>
+</div>
 <br><br>
 
-###    Technologies I'm Learning!
+## Technologies I'm Learning!
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" width="70" alt="java logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" width="70" alt="spring logo"  />
@@ -17,9 +19,7 @@ Hi I'm Lincon , student in computer science 💻 , I'm focused on Back End devel
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinconDC&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 
-
-
-
+![Contribution](https://activity-graph.herokuapp.com/graph?username=LinconDC&theme=gotham&hide_border=true&area=true)
 
 
 
