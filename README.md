@@ -1,7 +1,8 @@
-<div alignh="center">
-<br><p align="center"><b>Hi I'm Lincon , student in computer science 💻 , Focused on Back End development</b></p>
-</div>
-<br><br>
+
+<br>
+<p align="center"><b>Hi I'm Lincon , student in computer science 💻 , Focused on Back End development</b></p>
+<br>
+<br>
 
 ## Technologies I'm Learning!
 <div>
