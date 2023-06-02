@@ -1,6 +1,6 @@
 
 <br>
-<p align="center"><b>Hi I'm Lincon , student in computer science 💻 , Focused on Back End development</b></p>
+<p><b>Hi I'm Lincon , student in computer science 💻 , Focused on Back End development</b></p>
 <br>
 <br>
 
