@@ -1,5 +1,5 @@
 <div alignh="center">
-<br><p align="center"><b>Hi I'm Lincon , student in computer science 💻 , Focused on Back End development with Java using SpringBoot.</b></p>
+<br><p align="center"><b>Hi I'm Lincon , student in computer science 💻 , Focused on Back End development</b></p>
 </div>
 <br><br>
 
@@ -19,7 +19,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinconDC&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=LinconDC&theme=gotham&hide_border=true&area=true)
 
 
 
