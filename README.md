@@ -1,8 +1,6 @@
 
 <br>
 <p><b>Hi I'm Lincon , student in computer science 💻 , Focused on Back End development</b></p>
-<br>
-<br>
 
 ## Technologies I'm Learning!
 <div>
